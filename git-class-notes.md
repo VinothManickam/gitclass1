@@ -7,4 +7,9 @@ git commit -m 'message'
 git log
 git show
 
+-----------------------
+
+git remote add origin 'link'
+git remote -v
+git push origin master
 
