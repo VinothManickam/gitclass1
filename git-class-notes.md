@@ -41,4 +41,16 @@ git reset --hard <CommitID>
 git revert HEAD
 -----------------------
 
+git branch
+
+git branch dev
+
+git checkout dev
+
+-----------------------
+
+git clone
+
+-----------------------
+
 
