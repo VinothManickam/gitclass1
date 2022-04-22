@@ -17,5 +17,6 @@ git pull origin master
 ------------------------
 
 git tag v1
+git push --tags origin 
 
-added a new line
+
