@@ -37,3 +37,8 @@ git reset
 git reset <commitID>
 
 git reset --hard <CommitID>
+
+git revert HEAD
+-----------------------
+
+
