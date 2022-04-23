@@ -58,3 +58,10 @@ git merge
 
 git merge dev
 
+------------------------
+
+git cherry-pick
+
+git stash
+
+
