@@ -64,6 +64,12 @@ git cherry-pick
 
 git stash
 
+git stash pop id
+
 ------------------------
   
   git fetch
+
+------------------------
+
+
