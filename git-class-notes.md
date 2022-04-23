@@ -56,4 +56,5 @@ git clone
 
 git merge
 
+git merge dev
 
