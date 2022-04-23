@@ -39,6 +39,7 @@ git reset <commitID>
 git reset --hard <CommitID>
 
 git revert HEAD
+
 -----------------------
 
 git branch
@@ -52,5 +53,7 @@ git checkout dev
 git clone
 
 -----------------------
+
+git merge
 
 
