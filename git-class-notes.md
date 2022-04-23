@@ -64,4 +64,6 @@ git cherry-pick
 
 git stash
 
-
+------------------------
+  
+  git fetch
